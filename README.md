@@ -1,5 +1,3 @@
----
-
 # 📚 Susan Study Hub
 
 ## 📖 Overview
